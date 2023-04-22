@@ -4,4 +4,6 @@
 
 ## Terraform Projects and Practice
 
-1. Script XX
+1. Script
+
+![underconstruction](https://user-images.githubusercontent.com/126183973/233772882-e4fbd5b9-13ef-4bd6-b88b-40d959ee7431.jpg)
